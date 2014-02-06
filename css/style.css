@@ -1,0 +1,182 @@
+@charset "utf-8";
+/* CSS Document */
+
+#deribble-shots {
+  background-color: #F4F4F4;
+  height: auto;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+
+#deribble-shots .deribble-player{
+
+}
+
+#deribble-shots .deribble-player .deribble-player-thumb {
+
+}
+
+#deribble-shots .deribble-player .deribble-player-thumb img {
+  border: 5px solid #FFFFFF;
+  border-radius: 0 !important;
+  box-shadow: 0 0 6px -3px #555555;
+}
+
+#deribble-shots .deribble-player .deribble-player-name {
+
+}
+#deribble-shots .deribble-player .deribble-player-location {
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+
+#deribble-shots .deribble-player .deribble-player-name a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#deribble-shots .deribble-player .deribble-player-name a:hover {
+	opacity: 0.8;
+
+}
+
+
+
+
+
+
+#deribble-shots .ds-items {
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 3px -2px #000000;
+  display: inline-block;
+  height: auto;
+  list-style: none outside none;
+  margin: 10px;
+  padding: 5px;
+  vertical-align: top;
+  width: 20%;
+}
+
+#deribble-shots .ds-items-thumbs {
+  cursor: pointer;
+  max-height: 150px;
+  overflow: hidden;
+  width: 100%;
+}
+
+#deribble-shots .ds-items img {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  width: 100%;
+}
+
+#deribble-shots .ds-items-name {
+
+  font-family: "open sans",serif;
+  font-size: 12px;
+  font-weight: 300;
+  height: 20px;
+  overflow: hidden;
+  text-align: left;
+  width: 100%;
+}
+
+#deribble-shots .ds-items-name a {
+  text-decoration: none;
+}
+
+
+#deribble-shots .ds-items-info {
+  margin-top: 5px;
+  width: 100%;
+}
+
+#deribble-shots .ds-items-info li {
+
+  display: inline-block;
+  float: left;
+  font-size: 12px;
+  height: 20px;
+  margin: 0 8px;
+  padding-left: 17px;
+  padding-right: 5px;
+}
+
+#deribble-shots .ds-items-info .ds-items-info-view {
+  background: url("icon-views.png") no-repeat scroll 0 5px rgba(0, 0, 0, 0);
+}
+
+#deribble-shots .ds-items-info .ds-items-info-comment {
+  background: url("icon-comments.png") no-repeat scroll 0 5px rgba(0, 0, 0, 0);
+}
+
+#deribble-shots .ds-items-info .ds-items-info-like {
+  background: url("icon-hearts.png") no-repeat scroll 0 5px rgba(0, 0, 0, 0);
+}
+
+#ds-popup {
+  background-color: #FF0000;
+  border: 5px solid #FFFFFF;
+  box-shadow: 0 0 6px -2px #000000;
+  display: none;
+  height: 450px;
+  left: 24%;
+  position: fixed;
+  top: 15%;
+  width: 700px;
+  overflow:hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
