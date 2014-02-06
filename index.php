@@ -3,7 +3,7 @@
 Plugin Name: Dribbble Portfolio
 Plugin URI: http://kentothemes.com
 Description: dribbble shots wordpress, dribbble shots, dribbble portfolio wordpress, dribbble shots display website
-Version: 1.1
+Version: 1.0
 Author: KentoThemes
 Author URI: http://kentothemes.com
 License: GPLv2 or later
