@@ -1,5 +1,5 @@
 === Dribbble Portfolio ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags:  dribbble shots wordpress, dribbble shots, dribbble portfolio wordpress, dribbble shots display website
 Requires at least: 3.8
